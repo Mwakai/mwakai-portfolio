@@ -16,7 +16,7 @@ git init
 git add -A
 git commit -m 'deploy'
 
-# deploy to GitHub Pages
-git push -f git@github.com:Mwakai/mwakai-portfolio.git main:gh-pages
+# ensure you are pushing from the correct branch
+git push -f git@github.com:Mwakai/mwakai-portfolio.git HEAD:gh-pages
 
 cd -
