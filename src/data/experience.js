@@ -1,8 +1,21 @@
 const experience = [
   {
     id: 1,
+    date: "Aug 2024 - Present",
+    position: "Software Developer",
+    company: "VITA",
+    url: "https://www.vita.fo",
+    description: [
+      {
+        id: 1,
+        description: "Work on PHP, React, JavaScript, TypeScript",
+      },
+    ],
+  },
+  {
+    id: 2,
     date: "Nov 2023 - Present",
-    position: "Sfotware Developer",
+    position: "Software Developer",
     company: "atlanta.fo",
     url: "https://atlanta.fo",
     description: [
@@ -24,7 +37,7 @@ const experience = [
     ],
   },
   {
-    id: 2,
+    id: 3,
     date: "Feb 2024 - July 2024",
     position: "Full stack Developer",
     company: "skaffa.fo",
@@ -48,7 +61,7 @@ const experience = [
     ],
   },
   {
-    id: 2,
+    id: 4,
     date: "Feb 2020 - Apr 2020",
     position: "Software Developer Apprenticeship",
     company: "Afrikapu",
@@ -71,7 +84,7 @@ const experience = [
     ],
   },
   {
-    id: 3,
+    id: 5,
     date: "Feb 2020 - Apr 2020",
     position: "ICT Intern",
     company: "The Judiciary, Milimani Commercial courts",
@@ -95,7 +108,7 @@ const experience = [
     ],
   },
   {
-    id: 3,
+    id: 6,
     date: "Feb 2020 - Apr 2020",
     position: "Software Developer Intern",
     company: "Zalego Academy",
