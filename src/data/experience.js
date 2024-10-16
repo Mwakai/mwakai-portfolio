@@ -8,7 +8,7 @@ const experience = [
     description: [
       {
         id: 1,
-        description: "Work on PHP, React, JavaScript, TypeScript",
+        description: "PHP, React, JavaScript, TypeScript",
       },
     ],
   },
