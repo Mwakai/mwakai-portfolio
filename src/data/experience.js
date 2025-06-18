@@ -22,7 +22,7 @@ const experience = [
       {
         id: 1,
         description:
-          "Develop and maintain WordPress and WooCommerce website using custom themes.",
+          "Work part-time in developing and maintain WordPress and WooCommerce website using custom themes.",
       },
       {
         id: 2,
@@ -62,7 +62,7 @@ const experience = [
   },
   {
     id: 4,
-    date: "Feb 2020 - Apr 2020",
+    date: "Feb 2023 - May 2023",
     position: "Software Developer Apprenticeship",
     company: "Afrikapu",
     url: "https://www.afrikapu.com",
@@ -85,7 +85,7 @@ const experience = [
   },
   {
     id: 5,
-    date: "Feb 2020 - Apr 2020",
+    date: "Sep 2022 - Dec 2022",
     position: "ICT Intern",
     company: "The Judiciary, Milimani Commercial courts",
     url: "#",
@@ -109,7 +109,7 @@ const experience = [
   },
   {
     id: 6,
-    date: "Feb 2020 - Apr 2020",
+    date: "Nov 2022 - Jan 2022",
     position: "Software Developer Intern",
     company: "Zalego Academy",
     url: "https://www.instagram.com/zalegoacademy/",
